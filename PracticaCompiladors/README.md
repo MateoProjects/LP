@@ -77,7 +77,7 @@ python3 test.py
 ```
 **Nota** : El càlcul de l'intersecció és efectuat de forma correcta. Disposa d'un petit error i retorna punts repetits.
 
-##Arxius
+## Arxius
 
 * **cl :** carpeta que conté l'interpret i compilador
 * **bot :** carpeta que conté el bot de telegram
