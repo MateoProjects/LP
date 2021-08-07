@@ -58,7 +58,7 @@ r := !100                               // convex polygon made with 100 random p
 
 ```p3 := #((p1 + p2) * [0 0  1 0  1 1])    ```
 
-###Output
+### Output
 
 La sortida resultant és:
 
