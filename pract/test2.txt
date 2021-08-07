@@ -1,0 +1,7 @@
+p,convex,brown,black
+e,convex,yellow,black
+e,bell,white,brown
+p,convex,white,brown
+e,convex,yellow,brown
+e,bell,white,brown
+p,convex,white,pink
